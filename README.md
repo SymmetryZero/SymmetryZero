@@ -12,14 +12,17 @@ I serve as a professional bridge between **Data Intelligence** and **Software En
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend & Logic** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Frontend & Logic** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | **Enterprise Low-Code** | 🌀 **Genexus** |
-| **Automation & Ops** | 🤖 **n8n** (Current Focus), 🐳 **Docker**, 🌐 **Cisco CCNA** |
+| **Automation & Ops** | 🤖 **n8n** (Focus), 🐳 **Docker**, 🌐 **Cisco CCNA** |
 | **Data & BI** | 📊 **Power BI**, 📈 **Excel Associate (MOS)**, 🗄️ **MySQL**, 📉 **R** |
 
 ---
 
 ### 📈 Professional Journey
+
+🏢 **Coffyn** | *Software Engineer*
+> **Current Role:** Leading workflow automation using **n8n** and developing modern web applications utilizing **TypeScript, JavaScript, and CSS**. I am also responsible for **network infrastructure management** and professional **hardware maintenance**, including computer cleaning and repair.
 
 🏢 **Ory Digital** | *Software Engineer*
 > Developed scalable web and mobile applications using **Python, Java, .NET, and C**. Optimized backend performance and modern frontend components while participating in the full SDLC.
@@ -34,10 +37,9 @@ I serve as a professional bridge between **Data Intelligence** and **Software En
 
 ### 🎷 Beyond the Code
 * **Music:** I am a **saxophone** and **piano** player. 🎹 🎷
-* **Interests:** Video games (TBoI, LoL, FIFA) and complex problem-solving. 🎮
+* **Interests:** Video games (**The Binding of Isaac, Minecraft, LoL, FIFA**) and complex problem-solving. 🎮
 * **Languages:** English (B1 Intermediate) and Native Spanish.
 
 ---
-
 
 > **Note:** I am currently centralizing my personal projects. Soon, this profile will be full of active code repositories!

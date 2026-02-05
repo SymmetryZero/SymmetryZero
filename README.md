@@ -1,8 +1,10 @@
-# 🚀 Javier Jovanny Romero Rodriguez (SymmetryZero)
-### Computer Science Engineer | Full Stack Developer & BI Analyst
-**Puebla, Mexico** 🇲🇽
+# <p align="center"><img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=250&section=header&text=Javier%20Jovanny&fontSize=70&animation=fadeIn" alt="Banner" /></p>
 
-Professional bridge between **Data Intelligence** and **Software Engineering**. Expert in building scalable systems, intelligent automation with **n8n**, and modern development with **TypeScript**.
+### 🚀 Computer Science Engineer | Full Stack Developer & BI Analyst
+
+Hi! I'm **Javier Jovanny Romero Rodriguez**, a tech professional based in **Puebla, Mexico**. My journey in technology is a blend of rigorous logic and musical creativity. I have transitioned from deep data analysis to scalable software architecture, always seeking efficiency through automation and clean code. 
+
+I serve as a professional bridge between **Data Intelligence** and **Software Engineering**, focused on building scalable systems, intelligent automation with **n8n**, and modern development with **TypeScript**.
 
 ---
 
@@ -12,7 +14,7 @@ Professional bridge between **Data Intelligence** and **Software Engineering**. 
 | :--- | :--- |
 | **Frontend & Logic** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | **Enterprise Low-Code** | 🌀 **Genexus** |
-| **Automation & Ops** | 🤖 **n8n** (Focus), 🐳 **Docker**, 🌐 **Cisco CCNA** |
+| **Automation & Ops** | 🤖 **n8n** (Current Focus), 🐳 **Docker**, 🌐 **Cisco CCNA** |
 | **Data & BI** | 📊 **Power BI**, 📈 **Excel Associate (MOS)**, 🗄️ **MySQL**, 📉 **R** |
 
 ---
@@ -20,19 +22,19 @@ Professional bridge between **Data Intelligence** and **Software Engineering**. 
 ### 📈 Professional Journey
 
 🏢 **Ory Digital** | *Software Engineer*
-> Developed scalable web and mobile applications using **Python, Java, .NET, and C**. Optimized backend performance and modern frontend components.
+> Developed scalable web and mobile applications using **Python, Java, .NET, and C**. Optimized backend performance and modern frontend components while participating in the full SDLC.
 
 📊 **Kimetrics** | *Business Intelligence Analyst*
-> Designed **Power BI** dashboards for efficiency and forecasting. Automated complex business reports to streamline executive decision-making.
+> Designed **Power BI** dashboards for efficiency, coverage, and forecasting. Automated complex business reports to drive actionable insights and strategic decision-making.
 
 🎓 **BUAP** | *Data Analyst*
-> Specialized in statistical processing and data visualization for academic research and institutional projects.
+> Managed statistical processing and data visualization for academic research. Specialized in turning raw datasets into clear institutional insights using **Python, R, and Excel**.
 
 ---
 
 ### 🎷 Beyond the Code
-* **Music:** Saxophone and Piano player. 🎹 🎷
-* **Gaming:** Passionate about video games (TBoI, LoL, FIFA). 🎮
+* **Music:** I am a **saxophone** and **piano** player. 🎹 🎷
+* **Interests:** Video games (TBoI, LoL, FIFA) and complex problem-solving. 🎮
 * **Languages:** English (B1 Intermediate) and Native Spanish.
 
 ---

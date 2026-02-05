@@ -1,8 +1,8 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=250&section=header&text=Javier%20Jovanny&fontSize=70&animation=fadeIn" alt="Banner" /></p>
+# 🚀 Javier Jovanny Romero Rodriguez (SymmetryZero)
+### Computer Science Engineer | Full Stack Developer & BI Analyst
+**Puebla, Mexico** 🇲🇽
 
-### 🚀 Computer Science Engineer (Degree in Progress) | Full Stack Developer & BI Analyst
-
-Hi! [cite_start]I'm Javier Jovanny Romero Rodriguez [cite: 1, 41][cite_start], a tech professional based in **Puebla, Mexico**[cite: 8, 9, 26, 34, 43, 52, 57]. My journey in technology is a blend of rigorous logic and musical creativity. I have transitioned from deep data analysis to scalable software architecture, always seeking efficiency through automation and clean code.
+Professional bridge between **Data Intelligence** and **Software Engineering**. Expert in building scalable systems, intelligent automation with **n8n**, and modern development with **TypeScript**.
 
 ---
 
@@ -10,40 +10,30 @@ Hi! [cite_start]I'm Javier Jovanny Romero Rodriguez [cite: 1, 41][cite_start], a
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend & Logic** | [cite_start]**TypeScript** (Current Focus), **JavaScript**, **CSS**, **Java**, **.NET**, **Python**, **C/C++**. |
-| **Enterprise Low-Code** | [cite_start]**Genexus**. |
-| **Automation & Ops** | [cite_start]**n8n** (Current Focus), **Docker**. |
-| **Data & BI** | [cite_start]**Power BI** [cite: 33, 36, 63][cite_start], **Excel Associate (Microsoft Certified)** [cite: 21, 23, 63][cite_start], **MySQL** [cite: 63][cite_start], **R**[cite: 29, 64]. |
-| **Infrastructure** | [cite_start]**Cisco CCNA** (Routing, Switching & Wireless) [cite: 15, 18, 19, 22, 63][cite_start], **Tomcat**. |
+| **Frontend & Logic** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Enterprise Low-Code** | 🌀 **Genexus** |
+| **Automation & Ops** | 🤖 **n8n** (Focus), 🐳 **Docker**, 🌐 **Cisco CCNA** |
+| **Data & BI** | 📊 **Power BI**, 📈 **Excel Associate (MOS)**, 🗄️ **MySQL**, 📉 **R** |
 
 ---
 
 ### 📈 Professional Journey
 
-#### [cite_start]<img src="https://img.icons8.com/color/48/000000/cloud-development.png" width="25"/> **Software Engineer @ Ory Digital** [cite: 42]
-[cite_start]*(Jun 2025 - Nov 2025)* [cite: 43]
-* [cite_start]Developed and implemented scalable web and mobile applications using **Python, Java, .NET, and C**[cite: 44].
-* [cite_start]Optimized backend solutions and frontend components to ensure high-performance user experiences[cite: 45].
-* [cite_start]Participated in the full Software Development Life Cycle (SDLC)[cite: 46].
+🏢 **Ory Digital** | *Software Engineer*
+> Developed scalable web and mobile applications using **Python, Java, .NET, and C**. Optimized backend performance and modern frontend components.
 
-#### [cite_start]<img src="https://img.icons8.com/color/48/000000/analytics.png" width="25"/> **Business Intelligence Analyst @ Kimetrics** [cite: 33]
-[cite_start]*(Jan 2025 - May 2025)* [cite: 35]
-* [cite_start]Designed and developed **Power BI** dashboards focused on efficiency, coverage, and forecasting[cite: 36, 40].
-* [cite_start]Automated business reports and visualizations to drive actionable insights[cite: 37].
-* [cite_start]Collaborated with various departments to translate requirements into effective BI solutions[cite: 38].
+📊 **Kimetrics** | *Business Intelligence Analyst*
+> Designed **Power BI** dashboards for efficiency and forecasting. Automated complex business reports to streamline executive decision-making.
 
-#### [cite_start]<img src="https://img.icons8.com/color/48/000000/university.png" width="25"/> **Data Analyst @ BUAP** [cite: 25]
-[cite_start]*(Jan 2024 - Jul 2024)* [cite: 27]
-* [cite_start]Assisted in the collection, processing, and statistical analysis of academic data[cite: 28].
-* [cite_start]Used statistical software and data analysis tools like **R, Python, and Excel**[cite: 29].
-* [cite_start]Implemented data visualization techniques to facilitate information understanding[cite: 32].
+🎓 **BUAP** | *Data Analyst*
+> Specialized in statistical processing and data visualization for academic research and institutional projects.
 
 ---
 
 ### 🎷 Beyond the Code
-* [cite_start]**Music:** I am a **saxophone** and **piano** player[cite: 65].
-* [cite_start]**Hobbies:** Passionate about video games and complex problem solving[cite: 65].
-* [cite_start]**Languages:** **English (B1 Intermediate)** and Native Spanish[cite: 64].
+* **Music:** Saxophone and Piano player. 🎹 🎷
+* **Gaming:** Passionate about video games (TBoI, LoL, FIFA). 🎮
+* **Languages:** English (B1 Intermediate) and Native Spanish.
 
 ---
 
@@ -53,4 +43,4 @@ Hi! [cite_start]I'm Javier Jovanny Romero Rodriguez [cite: 1, 41][cite_start], a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SymmetryZero&layout=compact&theme=tokyonight&langs_count=6"/>
 </p>
 
-> **Note:** I am currently centralizing and updating my portfolio and projects. Stay tuned for more code uploads!
+> **Note:** I am currently centralizing my personal projects. Soon, this profile will be full of active code repositories!

@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=250&section=header&text=Javier%20Jovanny&fontSize=70&animation=fadeIn" alt="Banner" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&height=100&lines=Javier+Jovanny+Romero+Rodriguez;Software+Engineer;Data+Analyst;Automation+Enthusiast;Musician+%F0%9F%83+%F0%9F%8E%B9" alt="Typing SVG" /></p>
 
 ### 🚀 Computer Science Engineer | Full Stack Developer & BI Analyst
 
@@ -39,10 +39,5 @@ I serve as a professional bridge between **Data Intelligence** and **Software En
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SymmetryZero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SymmetryZero&layout=compact&theme=tokyonight&langs_count=6"/>
-</p>
 
 > **Note:** I am currently centralizing my personal projects. Soon, this profile will be full of active code repositories!
